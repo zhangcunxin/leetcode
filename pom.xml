@@ -8,4 +8,12 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.google.guava</groupId>
+            <artifactId>guava</artifactId>
+            <version>21</version>
+        </dependency>
+    </dependencies>
+
 </project>
